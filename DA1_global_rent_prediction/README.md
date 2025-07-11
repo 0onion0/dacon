@@ -1,3 +1,6 @@
+첫 번째 해커톤 연습  
+  
+
 "Global Rent Prediction AI Hackathon"   
 https://dacon.io/competitions/official/236044/overview/description  
   
